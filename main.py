@@ -1,3 +1,6 @@
+# ====================
+# ISI UTAMA KODE
+# ====================
 while True:
     angka1 = input("Masukkan angka pertama (atau 'exit' untuk keluar): ")
     if angka1.lower() == 'exit':
